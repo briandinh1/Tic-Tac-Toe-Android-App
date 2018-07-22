@@ -1,5 +1,7 @@
 # Tic-Tac-Toe-Android-App
 Tic tac toe for Android with minimax AI. APK available to try out
+
+
 Basically took my other Connect K project and ported it to Android. This was a lot less complex than the connect K because its just a 3x3 board
 
 
